@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Parisienne&display=swap');
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal
+}
+a {
+ color: brown;
+}
